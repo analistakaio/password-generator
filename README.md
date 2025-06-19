@@ -30,4 +30,4 @@ Este é um projeto de código aberto e contribuições são bem-vindas! Sinta-se
 
 ## Autor
 
-Kaio Rodrigues Silva - larissakich04@gmail.com
+Kaio Rodrigues Silva - kaiorsilva99@gmail.com
